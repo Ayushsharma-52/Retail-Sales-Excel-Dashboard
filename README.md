@@ -56,7 +56,7 @@ This project analyzes retail sales data using Microsoft Excel. The objective is 
 
 ## Dataset
 
-Sample Superstore Dataset
+https://public.tableau.com/app/sample-data/sample_-_superstore.xls
 
 ---
 
